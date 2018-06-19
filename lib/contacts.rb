@@ -18,7 +18,7 @@ def remove_strawberry(contacts)
    contacts.each do |key, value|
      binding.pry
      value.each do |attribute, data|
-     
+      if attribute == :
       end
    end
 end
